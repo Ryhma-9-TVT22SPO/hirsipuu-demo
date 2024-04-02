@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="enter_a_letter" />
+    <string name="guess" />
+    <string name="guess_the_word" />
+    <string name="hangman_image" />
+    <string name="reset" />
+    <string name="score_default">Score: 0</string>
+</resources>
